@@ -1,0 +1,10 @@
+var vs let vs const in JavaScript:-
+--------------------------
+1 - var is globally scoped while let and const are block scoped.
+2 - var can be updated and re-declared in its scope.
+3 - let can be updated, but it cannot be re-declared within its scope.
+4 - const can neither be updated nor be re-declared.
+5 - const must be initialized during declaration. We cannot initialze const later in the code.
+6 - We must avoid using var, because it is easy to re-declare an existing variable, which makes your code vulnerable.
+7 - We must use const wherever possible, as it is safe and makes your code less vulnerable.
+8 - Wherever we cannot use const, we must use  let, which is safer than var.
