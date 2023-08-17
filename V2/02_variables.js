@@ -1,3 +1,5 @@
+document.write("<h1>Chp. 2 - Variables</h1>");
+document.write('<hr>');
 // 1 - A variable is a container that stores value.
 // 2 - The value of a JS variable can be changed during the execution of a JS program
 // Following is the example:-
