@@ -1,4 +1,4 @@
-document.write("JavaScript Tutorial 3: var, let and const<br><br>");
+document.write("<h1>Chp. 3 - JavaScript Tutorial 3: var, let and const</h1>");
 document.write('<hr>');
 // DECLARING A VARIABLE 'a' USING var
 var a = "Nikhil";
@@ -39,6 +39,7 @@ document.write('<h3>Re-declaration within Scope</h3>');
 document.write('Current value of a -> '+a+'<br>');
 var a = 'Nikhil Narendra Chavan';
 document.write('Value of a after re-declaration in the same scope -> '+a+'<br>');
+document.write('<hr>');
 
 // but you cannot re-declare let b in the same scope. Following piece of code will give error
 
