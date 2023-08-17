@@ -1,7 +1,7 @@
 # Table of Contents
-* [Introduction](#Introduction)
-* [Reference](#Reference)
-* [Execution](#Execution)
+* [Introduction](#introduction)
+* [Reference](#reference)
+* [Execution](#execution)
 
 # Introduction
 
