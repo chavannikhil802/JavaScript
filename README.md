@@ -1,3 +1,5 @@
+![](https://github.com/chavannikhil802/JavaScript/blob/main/media/js.gif)
+
 # Table of Contents
 1. [Introduction](#introduction)
 2. [Reference](#reference)
