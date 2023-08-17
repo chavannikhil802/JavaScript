@@ -24,7 +24,7 @@
 
 1. Here, each video content is stored in the respective folder.
 2. The number mentioned in the folder name stands for the video number in the playlist.
-* e.g. V1 stands for Video 1, V2 stands for Video 2 and so on.
+* **e.g. V1 stands for Video 1, V2 stands for Video 2 and so on.**
 3. Each folder contains a  JS file, which contains the JavaScript code.
 4. In order to execute the JS code, there is an index.html file.
 5. You will have to execute the index.html file in the browser, which will execute the JS code.
