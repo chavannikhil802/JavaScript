@@ -1,0 +1,11 @@
+1 - There are total 7 primitive datatypes in JS. They are:-
+a - null
+b - number
+c - symbol
+d - string
+e - boolean
+f - BigInt
+g - undefined
+
+2 - Object is a non-primitive datatype in JS.
+3 - Objects consists of Key Value pair.
