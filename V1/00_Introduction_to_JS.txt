@@ -1,0 +1,12 @@
+1 - Programming is a way to talk with computer.
+2 - Programming is an act of constructing a program, a set of precise instructions, telling the computer what to do.
+
+ECMAScript:-
+1 - ECMAScript is a standard on which JavaScript is based.
+
+How to execute javaScript?
+1 - Javascript is executed inside browser.
+2 - You can open Google console and start writing the JavaScript code.
+3 - JavaScript can also be executed using Node.js.
+4 - Using Node.js, you can run JavaScript outside the browser.
+5 - You can also execute JavaScript code using <scrip> tag in HTML file.
