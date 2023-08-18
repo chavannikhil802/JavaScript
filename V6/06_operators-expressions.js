@@ -33,6 +33,8 @@ document.write("<br>c /= d = "+(c/=d));
 document.write("<br>c %= d = "+(c%=d));
 document.write("<hr>")
 
+// COMPARISON OPERATORS
+
 let e = 18;
 let f = 9;
 let g = 18;
@@ -53,3 +55,15 @@ document.write("<br>e === h = "+(e===h));
 document.write("<br>e !== g = "+(e!==g));
 document.write("<br>e !== h = "+(e!==h));
 document.write("<hr>")
+
+// LOGICAL OPERATORS
+
+let i = 18;
+let j = 9;
+document.write("<h3>Logical Operators</h3><br>");
+document.write("i: "+i+"<br>");
+document.write("j: "+j+"<br>");
+document.write("<br>i>j && i==18 = "+(i>j && i==18));
+document.write("<br>i<j && i==18 = "+(i<j && i==18));
+document.write("<br>i>j || i==18 = "+(i>j || i==18));
+document.write("<br>i<j || i==18 = "+(i<j || i==18));
