@@ -1,0 +1,16 @@
+Expression: A fragment of code that produces a value is called an Expression.
+Every value written is literally an Expression.
+
+eg: 1809 or "Nikhil".
+
+Operators:-
+
+1 - Arithmetic Operators:-
+
++ - Addition
+- - Subtraction
+* - Multiplication
+/ - Division
+% - Modulus
+++ - Increment
+-- - Decrement
