@@ -23,4 +23,11 @@ document.write("<hr>")
 
 let c = 18;
 let d = 9;
-document.write("<h3>Assignment Operators</h3>");
+document.write("<h3>Assignment Operators</h3><br>");
+document.write("c: "+c+"<br>");
+document.write("d: "+d+"<br>");
+document.write("<br>c += d = "+(c+=d));
+document.write("<br>c -= d = "+(c-=d));
+document.write("<br>c *= d = "+(c*=d));
+document.write("<br>c /= d = "+(c/=d));
+document.write("<br>c %= d = "+(c%=d));
