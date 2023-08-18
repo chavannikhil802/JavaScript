@@ -31,3 +31,25 @@ document.write("<br>c -= d = "+(c-=d));
 document.write("<br>c *= d = "+(c*=d));
 document.write("<br>c /= d = "+(c/=d));
 document.write("<br>c %= d = "+(c%=d));
+document.write("<hr>")
+
+let e = 18;
+let f = 9;
+let g = 18;
+let h = '18';
+document.write("<h3>Comparison Operators</h3><br>");
+document.write("e: "+e+"<br>");
+document.write("f: "+f+"<br>");
+document.write("g: "+g+"<br>");
+document.write("h: "+h+"<br><br>");
+document.write("typeof e: "+typeof e+"<br>");
+document.write("typeof f: "+typeof f+"<br>");
+document.write("typeof g: "+typeof g+"<br>");
+document.write("typeof h: "+typeof h+"<br><br>");
+document.write("<br>e == f = "+(e==f));
+document.write("<br>e != f = "+(e!=f));
+document.write("<br>e === g = "+(e===g));
+document.write("<br>e === h = "+(e===h));
+document.write("<br>e !== g = "+(e!==g));
+document.write("<br>e !== h = "+(e!==h));
+document.write("<hr>")
