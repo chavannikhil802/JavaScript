@@ -1,0 +1,11 @@
+PRACTICE SET QUESTIONS
+
+1 - Create a variable of type string and try to add a number to it.
+
+2 - Use typeof operator to find the datatype of the string in question 1.
+
+3 - Create a const object in JavaScript. can you change it to hold a number in it?
+
+4 - Try to add a new key to const object in question 3. Were you able to do it?
+
+5 - Write a JavaScript program to create a word - meaning directory of 5 words.
