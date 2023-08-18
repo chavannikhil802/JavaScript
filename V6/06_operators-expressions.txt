@@ -10,6 +10,7 @@ Operators:-
 + - Addition
 - - Subtraction
 * - Multiplication
+** - Exponential
 / - Division
 % - Modulus
 ++ - Increment
