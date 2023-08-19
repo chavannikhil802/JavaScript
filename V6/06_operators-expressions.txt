@@ -40,7 +40,7 @@ Operators:-
 --------------------------------------------------------------------------------------
 4 -  Logical Operators
 
-&& -> Logical AND
-!! -> Logical OR
-! -> Logical NOT
+&& -> Logical AND - If any one condition is false, then the output will be false
+!! -> Logical OR - If any one condition is true, then the output will be true.
+! -> Logical NOT - If the condition is true, then the output will be false and vice versa.
 --------------------------------------------------------------------------------------
