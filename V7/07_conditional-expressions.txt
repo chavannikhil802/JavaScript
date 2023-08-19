@@ -1,0 +1,11 @@
+Conditional Statements:-
+
+Sometimes, we might have to execute a block of code based on some condition.
+e.g. A prompt might ask for the age of the user and if it is greater that 18, then display a special message.
+
+1 - If Condition
+
+The are 3 types of If Statements:-
+a - If statement.
+2 - If....else statement.
+3 - If....else if....else statement.
