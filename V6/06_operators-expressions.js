@@ -61,9 +61,14 @@ document.write("<hr>")
 let i = 18;
 let j = 9;
 document.write("<h3>Logical Operators</h3><br>");
-document.write("i: "+i+"<br>");
-document.write("j: "+j+"<br><br>");
-document.write("i>j && i==18 = "+((i>j) && (i==18))+"<br>");
-document.write("i<j && i==18 = "+((i<j) && (i==18))+"<br>");
-document.write("i>j || i==18 = "+((i>j) || (i==18))+"<br>");
-document.write("i<j || i==18 = "+((i<j) || (i==18))+"<br>");
+document.write("<h4>For Logical Operators, please check the browser console for the outputs.</h4><br>");
+document.write("<hr>")
+
+console.log("i: "+i);
+console.log("j: "+j);
+console.log("i>j && i==18 = "+((i>j) && (i==18)));
+console.log("i<j && i==18 = "+((i<j) && (i==18)));
+console.log("i>j || i==18 = "+((i>j) || (i==18)));
+console.log("i<j || i==18 = "+((i<j) || (i==18)));
+console.log("!true = "+!true);
+console.log("!false = "+!false);
