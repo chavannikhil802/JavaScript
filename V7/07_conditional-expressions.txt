@@ -13,4 +13,13 @@ a - If statement.
 If....else Statement:-
 
 1 - If the condition present in if() is true, then the code present in if() block is executed.
-2 - If the confdition in if() is false, then the code present in else block is executed.
+2 - If the condition in if() is false, then the code present in else block is executed.
+
+If....else if....else statement:-
+
+1 - If the condition present in if() is true, then the code present in if() block is executed.
+2 - If the condition in if() is false, then the condition present in imeediate else if() will be checked.
+3 - If it is true, then the else if() block will be executed.
+4 - If it is false, then the next else if() block condition will be checked.
+5 - Step 1 to 5 will continue until any condition turns out to be true.
+6 - If no condition turns out to be true, then the else block will be executed.
