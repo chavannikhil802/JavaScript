@@ -24,3 +24,16 @@ If....else if....else statement:-
 5 - Step 1 to 5 will continue until any condition turns out to be true.
 6 - If no condition turns out to be true, then the else block will be executed.
 
+-----------------------------------------------------------------------------------------------------------
+
+Ternary Operator:-
+
+1 - Evaluates a condition and executes a block of code based on the codition.
+
+e.g. - condition ? exp1 : exp2
+Explanation: If "condition" is true, then "exp1" will be executed. If "condition" is false, then "exp2" will be executed.
+
+e.g. - age>18 && age <70? "valid" : "not valid"
+Explanation: If age is between 18 and 70, then it is a valid age, else it is not a valid age
+
+-----------------------------------------------------------------------------------------------------------
