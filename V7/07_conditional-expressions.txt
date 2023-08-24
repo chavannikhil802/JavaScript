@@ -9,3 +9,8 @@ The are 3 types of If Statements:-
 a - If statement.
 2 - If....else statement.
 3 - If....else if....else statement.
+
+If....else Statement:-
+
+1 - If the condition present in if() is true, then the code present in if() block is executed.
+2 - If the confdition in if() is false, then the code present in else block is executed.
