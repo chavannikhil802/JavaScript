@@ -26,3 +26,6 @@ Here,
 statement 1 => is executed only once.
 statement 2 => conditional statement which executes the loop.
 statement 3 => executed everytime the loop body is executed.
+------------------------------------------------------------------------------
+For in Loop:-
+
