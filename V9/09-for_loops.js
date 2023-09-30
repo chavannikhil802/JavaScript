@@ -18,7 +18,11 @@ let obj = {
     ritika: 57,
     shiv: 99
 }
-
+// FOR IN LOOP
 for(let a in obj) {
     console.log("Marks of "+a+" are "+obj[a]);
+}
+// FOR OF LOOP
+for(let a of "NIKHIL") {
+    console.log(a);
 }
