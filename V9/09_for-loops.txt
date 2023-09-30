@@ -49,3 +49,5 @@ for(variable of iterable) {
 
 Here, iterable is a data structure like array, string etc.
 ------------------------------------------------------------------------------
+NOTE: In the program, the scope of let is block level and the sscope of var is entire program
+------------------------------------------------------------------------------
