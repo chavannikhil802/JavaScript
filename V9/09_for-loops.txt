@@ -35,3 +35,13 @@ for(key in object) {
     // code to be executed
 }
 ------------------------------------------------------------------------------
+For of Loop:-
+
+Syntax:-
+
+for(variable of iterable) {
+    // code to be executed
+}
+
+Here, iterable is a data structure like array, string etc.
+------------------------------------------------------------------------------
