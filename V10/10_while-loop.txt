@@ -1,0 +1,9 @@
+While loop
+------------------------------------------------------------------------
+Syntax:-
+
+while(condition) {
+    // code to be executed
+}
+
+NOTE: If the condition never becomes false, the loop will never end and this might crash at runtime.
