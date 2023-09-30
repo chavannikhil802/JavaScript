@@ -7,3 +7,16 @@ while(condition) {
 }
 
 NOTE: If the condition never becomes false, the loop will never end and this might crash at runtime.
+
+------------------------------------------------------------------------
+Do-While Loop:-
+
+Syntax:-
+
+do {
+    // code to be executed
+}
+while(condition);
+
+Do-While loop is executedd atleast once, irrespective of the condition being true or false.
+------------------------------------------------------------------------
