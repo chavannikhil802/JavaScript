@@ -1,1 +1,16 @@
 For Loops in JavaScript
+------------------------------------------------------------------------------
+
+We use loops to perform repeated actions.
+e.g - If you have a task to print numbers from 1 to 100, then it will be very hectic to do it manually.
+Loops help us to automate such tasks.
+
+------------------------------------------------------------------------------
+Types of Loop:-
+
+1 - for loop => loop a block of code for n number of times.
+2 - for in loop => loop through keys of an object.
+3 - for of loop => loop through the values of an object.
+4 - while loop => loop a block based on specific condition.
+5 - do-while loop => a variant of while loop whcih runs atleast once.
+------------------------------------------------------------------------------
