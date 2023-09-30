@@ -51,12 +51,19 @@
 // **********************************************************************************
 
 // QUESTION 4
-let num1 = prompt("Please enter a number");
-num1 = Number.parseInt(num1);
+// let num1 = prompt("Please enter a number");
+// num1 = Number.parseInt(num1);
 
-if(num1%2 == 0 || num1%3 == 0) {
-    console.log(num1+" is divisible by 2 or 3");
-}
-else {
-    console.log(num1+" is not divisible by 2 or 3");
-}
+// if(num1%2 == 0 || num1%3 == 0) {
+//     console.log(num1+" is divisible by 2 or 3");
+// }
+// else {
+//     console.log(num1+" is not divisible by 2 or 3");
+// }
+
+// **********************************************************************************
+
+// QUESTION 5
+let your_age = prompt("Enter your age");
+let ans = your_age>18?"You can drive": "You cannot drive";
+console.log(ans);
