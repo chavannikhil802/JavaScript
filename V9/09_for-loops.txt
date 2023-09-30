@@ -29,3 +29,8 @@ statement 3 => executed everytime the loop body is executed.
 ------------------------------------------------------------------------------
 For in Loop:-
 
+Syntax:-
+
+for(key in object) {
+    // code to be executed
+}
