@@ -38,12 +38,25 @@
 // **********************************************************************************
 
 // QUESTION 3
-let num = prompt("Please enter a number");
-num = Number.parseInt(num);
+// let num = prompt("Please enter a number");
+// num = Number.parseInt(num);
 
-if(num%2 == 0 && num%3 == 0) {
-    console.log(num+" is divisible by 2 and 3");
+// if(num%2 == 0 && num%3 == 0) {
+//     console.log(num+" is divisible by 2 and 3");
+// }
+// else {
+//     console.log(num+" is not divisible by 2 and 3");
+// }
+
+// **********************************************************************************
+
+// QUESTION 4
+let num1 = prompt("Please enter a number");
+num1 = Number.parseInt(num1);
+
+if(num1%2 == 0 || num1%3 == 0) {
+    console.log(num1+" is divisible by 2 or 3");
 }
 else {
-    console.log(num+" is not divisible by 2 and 3");
+    console.log(num1+" is not divisible by 2 or 3");
 }
