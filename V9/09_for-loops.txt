@@ -14,3 +14,15 @@ Types of Loop:-
 4 - while loop => loop a block based on specific condition.
 5 - do-while loop => a variant of while loop whcih runs atleast once.
 ------------------------------------------------------------------------------
+For Loop:-
+
+Basic symtax:-
+
+for(statement 1; statement 2; statement 3) {
+    // code to be executed
+}
+
+Here,
+statement 1 => is executed only once.
+statement 2 => conditional statement which executes the loop.
+statement 3 => executed everytime the loop body is executed.
