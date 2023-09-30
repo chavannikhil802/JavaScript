@@ -29,6 +29,8 @@ statement 3 => executed everytime the loop body is executed.
 ------------------------------------------------------------------------------
 For in Loop:-
 
+Prints the key
+
 Syntax:-
 
 for(key in object) {
@@ -36,6 +38,8 @@ for(key in object) {
 }
 ------------------------------------------------------------------------------
 For of Loop:-
+
+Prints the value
 
 Syntax:-
 
