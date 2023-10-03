@@ -28,3 +28,16 @@ Using ${var-name} in Template Literal is used to print the variable value.
 it is called as Interpolation.
 
 ---------------------------------------------------------------------------------
+
+ESCAPE SEQUENCE
+
+Following are the Escape Sequences:-
+
+1 - \n => New Line
+2 - \t => Tab
+3 - \r => Carriage Return
+4 - \' => To print single quote
+5 - \" => To print double quote
+
+---------------------------------------------------------------------------------
+
