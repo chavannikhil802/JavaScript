@@ -1,0 +1,15 @@
+Functions are used for Seperation of Logic, i.e. we can use a function to write a block of code to perform a specific program.
+
+Syntax:-
+
+1 - Simple function without parameter:-
+
+function function_name() {
+    // Block of Code
+}
+
+2 - Functionwith parameters:-
+
+function function_name(param1, param2) {
+    // Block of Code
+}
