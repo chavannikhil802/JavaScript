@@ -18,3 +18,17 @@ console.log(sentence);
 
 sentence = `${str1} is a friend of ${str2}`;
 console.log(sentence);
+
+// ESCAPE SEQUENCE
+
+let fruit = 'bana\'na';
+console.log(fruit);
+
+fruit = "bana\"na";
+console.log(fruit);
+
+fruit = 'ban\nana';
+console.log(fruit);
+
+fruit = 'ban\tana';
+console.log(fruit);
