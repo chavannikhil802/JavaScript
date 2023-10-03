@@ -11,7 +11,7 @@ console.log(friend.length);
 let str1 = "Nikhil";
 let str2 = "Umesh";
 
-let sentence = `str1 is a friend of str2`;
+let sentence = `str1 is "a" friend 'of' str2`;
 console.log(sentence);
 sentence = `${str1} is a friend of ${str2}`;
 console.log(sentence);
