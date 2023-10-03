@@ -21,4 +21,6 @@ String can also be created using back tick;
 
 eg: let name = `Nikhil`;
 
+With Template Literal, we can use both single quote and double quotes
+
 ---------------------------------------------------------------------------------
