@@ -25,3 +25,10 @@ while(i != cn) {
     
 }
 console.log("You have entered a correct number");
+
+// QUESTION 4 SOLUTION
+const mean = (a, b, c, d) => {
+    return (a + b + c + d)/4;
+}
+
+console.log("Mean of 4, 5, 6 and 7 is ", mean(4, 5, 6, 7));
