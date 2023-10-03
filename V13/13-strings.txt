@@ -21,6 +21,10 @@ String can also be created using back tick;
 
 eg: let name = `Nikhil`;
 
-With Template Literal, we can use both single quote and double quotes
+With Template Literal, we can use both single quote and double quotes.
+
+Using ${var-name} in Template Literal is used to print the variable value.
+
+it is called as Interpolation.
 
 ---------------------------------------------------------------------------------
