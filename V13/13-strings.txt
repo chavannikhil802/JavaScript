@@ -17,6 +17,8 @@ let name = 'Nikhil'
 
 Template Literals:-
 
+String can also be created using back tick;
 
+eg: let name = `Nikhil`;
 
 ---------------------------------------------------------------------------------
