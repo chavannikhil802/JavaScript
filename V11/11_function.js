@@ -26,3 +26,11 @@ const hello = () => {
 }
 
 hello();
+
+// FUNCTION WITH RETURN VALUE
+const hi = () => {
+    return "Hiiiiiiii";
+}
+
+let n = hi();
+console.log("Value of n is", hi());
