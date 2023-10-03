@@ -19,3 +19,10 @@ console.log();
 console.log("sum of a and b is",sum(a, b));
 console.log("sum of b and c is",sum(b, c));
 console.log("sum of a and c is",sum(a, c));
+
+// FUNCTION WITHOUT RETURN VALUE
+const hello = () => {
+    console.log("Hi!!!! How are YOU?");
+}
+
+hello();
