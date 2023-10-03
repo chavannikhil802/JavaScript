@@ -13,5 +13,8 @@ let str2 = "Umesh";
 
 let sentence = `str1 is "a" friend 'of' str2`;
 console.log(sentence);
+
+// TEMPLATE LITERAL INTERPOLATION
+
 sentence = `${str1} is a friend of ${str2}`;
 console.log(sentence);
