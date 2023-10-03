@@ -1,0 +1,22 @@
+Strings
+
+Strings are used to store and manipulate text.
+Strings can be created using the following syntax:-
+
+let name = "Nikhil"
+
+name.length => This property prints the length of the string
+
+---------------------------------------------------------------------------------
+
+Strings can also be created using single quote:-
+
+let name = 'Nikhil'
+
+---------------------------------------------------------------------------------
+
+Template Literals:-
+
+
+
+---------------------------------------------------------------------------------
