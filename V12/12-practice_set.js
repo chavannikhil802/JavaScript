@@ -15,3 +15,13 @@ for(let key in marks) {
     // console.log("The marks of "+Object.keys(marks)[i]+" are "+marks[Object.keys(marks)[i]])
     console.log("The marks of "+key+" are "+marks[key])
 }
+
+// QUESTION 3 SOLUTION
+let cn = 4;
+let i = prompt("Enter a number");
+
+while(i != cn) {
+    i = prompt("TRY AGAIN!!!!!!");
+    
+}
+console.log("You have entered a correct number");
