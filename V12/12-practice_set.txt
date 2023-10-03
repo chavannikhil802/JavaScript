@@ -1,0 +1,9 @@
+Questions:-
+
+1 - Write a program to print the marks of a student in an object using for loop.
+
+2 - Write the program in Q1 using for in loop
+
+3 - Write a program to print "try Again" until the user enters the correct numbers.
+
+4 - Write a program to find the mean of 5 numbers.
