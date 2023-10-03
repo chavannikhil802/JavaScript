@@ -1,6 +1,6 @@
 Functions are used for Seperation of Logic, i.e. we can use a function to write a block of code to perform a specific program.
 
-Syntax:-
+Function Declaration Syntax:-
 
 1 - Simple function without parameter:-
 
@@ -8,8 +8,22 @@ function function_name() {
     // Block of Code
 }
 
-2 - Functionwith parameters:-
+2 - Function with parameters:-
 
 function function_name(param1, param2) {
     // Block of Code
 }
+
+----------------------------------------------------------------------------------------------
+
+Function Invocation Syntax:-
+
+Invoking a simple function: function_name()
+
+Invoking a function with parameter:-
+
+function_name(a, b)
+OR
+function_name(m, n)
+
+----------------------------------------------------------------------------------------------
